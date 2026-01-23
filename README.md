@@ -1,5 +1,5 @@
 # Stephane Munos
-## I am a research engineer at INRAE.
+## Research engineer at INRAE.
 
 
 **Skills:**
