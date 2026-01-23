@@ -1,6 +1,7 @@
 ## Stephane Munos
 
-## I’m currently working on Bioinformatics: Microbiome, klebsiella pneumoniae antibiotics resistance
+## I have been working in Plant Genomics and Genetics for 24 years.
+## I now work in Bioinformatics, focusing on the microbiome and antibiotic resistance in Klebsiella pneumoniae.
 
 ## How to reach me: stephane.munos@inserm.fr
 
