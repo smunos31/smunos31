@@ -1,9 +1,12 @@
-## Stephane Munos
+# Stephane Munos
 ## I am a research engineer at INRAE.
 
-## Skills
+
+**Skills:**
+
 **I have been working in Plant Genomics and Genetics for 24 years.**
-**I now work in Bioinformatics, focusing on the microbiome and antibiotic resistance in Klebsiella pneumoniae.**
+
+**I now work in Bioinformatics, focusing on the intestinal microbiome and antibiotic resistance in Klebsiella pneumoniae.**
 
 ## How to reach me: stephane.munos@inserm.fr
 
