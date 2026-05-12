@@ -3,7 +3,7 @@
 
 **Skills:**
 I have been working in Plant Genomics and Genetics for 24 years.
-**I now work in Bioinformatics, focusing on the intestinal microbiome and antibiotic tolerance in Klebsiella pneumoniae.**
+**I now work in Bioinformatics, focusing on the intestinal microbiote and antibiotic tolerance in Klebsiella pneumoniae.**
 
 Contact: stephane.munos@inserm.fr
 
