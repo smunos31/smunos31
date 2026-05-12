@@ -1,9 +1,9 @@
 # Stephane Munos
-## Research engineer at IRSD.
+## Scientist at IRSD (Institut de Recherche en Santé Digestive)
 
 **Skills:**
 I have been working in Plant Genomics and Genetics for 24 years.
-**I now work in Bioinformatics, focusing on the intestinal microbiome and antibiotic resistance in Klebsiella pneumoniae.**
+**I now work in Bioinformatics, focusing on the intestinal microbiome and antibiotic tolerance in Klebsiella pneumoniae.**
 
 Contact: stephane.munos@inserm.fr
 
@@ -12,7 +12,7 @@ Contact: stephane.munos@inserm.fr
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Bioinformatics: Microbiome, Klebsia antibiotics resistance
+- 🔭 I’m currently working on Bioinformatics: Microbiome, Klebsia antibiotics tolerance
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
