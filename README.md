@@ -1,7 +1,7 @@
 # Stephane Munos
 
 ## Scientist at IRSD (Institut de Recherche en Santé Digestive)
-[IRSD official website](http://www.irsd.fr/?utm_source=chatgpt.com)
+[IRSD official website](http://www.irsd.fr/
 
 ### Skills
 
@@ -12,7 +12,7 @@ I am currently working in bioinformatics, with a focus on the intestinal microbi
 ### Contact
 
 - Email: stephane.munos@inrae.fr
-- Research page: [Bioinformatics Research In Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html?utm_source=chatgpt.com)
+- Research page: [Bioinformatics Research In Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html)
 - ORCID : https://orcid.org/0000-0003-0261-2759
 
 ### Personal Information
