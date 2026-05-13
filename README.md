@@ -129,6 +129,48 @@ https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029750634&cate
 - Mangin B.; Pouilly N.; Boniface M.C.; Langlade N.; Vincourt P.; Vear F.; Muños S. (2017) *Molecular diversity in sunflower populations maintained as genetic resources is affected by multiplication processes and breeding for major traits*. Theoretical and Applied Genetics, 130:1099–1112.
 
 - Mangin B.; Casadebaig P.; Cadic E.; Blanchet N.; Boniface M.C.; Carrère S.; Gouzy J.; Legrand L.; Mayjonade B.; Pouilly N.; André T.; Coque M.; Piquemal J.; Romestant M.; Vincourt P.; Muños S.; Langlade N. (2017) *Genetic control of oil yield plasticity to combined abiotic stresses using a joint approach of crop modeling and genome-wide association*. Plant, Cell & Environment. DOI: https://doi.org/10.1111/pce.12961
+
+### 2016
+
+- Gascuel Q.; Buendia L.; Pecrix Y.; Blanchet N.; Muños S.; Vear F.; Godiard L. (2016) *RXLR and CRN effectors from the sunflower downy mildew pathogen Plasmopara halstedii induce hypersensitive-like responses in resistant sunflower lines*. Frontiers in Plant Science, 7:1887. DOI: https://doi.org/10.3389/fpls.2016.01887
+
+- Mayjonade B.; Gouzy J.; Donnadieu C.; Pouilly N.; Marande W.; Callot C.; Langlade N.; Muños S. (2016) *Extraction of high-molecular-weight genomic DNA for the long-read sequencing of single molecules*. Biotechniques, 61:203–205.
+
+- Louarn J.; Boniface M.C.; Pouilly N.; Velasco L.; Pérez-Vich B.; Vincourt P.; Muños S. (2016) *Race-specific resistance of sunflower to broomrape is controlled by specific QTLs for different developmental stages of Orobanche cumana*. Frontiers in Plant Science, 7:590. DOI: https://doi.org/10.3389/fpls.2016.00590
+
+- Khoufi S.; Pouilly N.; Muños S.; Bérard A.; Ben Jeddi F.; Vincourt P.; Brunel D. (2016) *Genetic diversity and core collection constitution for subsequent creation of new sunflower varieties in Tunisia*. Helia. DOI: https://doi.org/10.1515/helia-2016-0002
+
+### 2014
+
+- Bauchet G.; Muños S.; Sauvage C.; Bonnet J.; Grivet L.; Causse M. (2014) *Genes involved in floral meristem in tomato exhibit drastically reduced genetic diversity and signature of selection*. BMC Plant Biology, 14:279.
+
+- Adiredjo A.L.; Navaud O.; Muños S.; Langlade N.B.; Lamaze T.; Grieu P. (2014) *Genetic control of water use efficiency and leaf carbon isotope discrimination in sunflower (Helianthus annuus L.) subjected to two drought scenarios*. PLoS ONE, 9:e101218.
+
+### 2013
+
+- Chakrabarti M.; Zhang N.; Sauvage C.; Muños S.; Blanca J.; Cañizares J.; Diez M.J.; Schneider R.; Mazourek M.; McClead J.; Causse M.; van der Knaap E. (2013) *A cytochrome P450 regulates a domestication trait in cultivated tomato*. PNAS, 110:17125–17130.
+
+- Léran S.; Muños S.; Brachet C.; Tillard P.; Gojon A.; Lacombe B. (2013) *Arabidopsis NRT1.1 is a bidirectional transporter involved in root-to-shoot nitrate translocation*. Molecular Plant, 6:1984–1987.
+
+### 2012
+
+- Xu J.; Ranc N.; Muños S.; Rolland S.; Bouchet J.P.; Desplat N.; Le Paslier M.C.; Liang Y.; Brunel D.; Causse M. (2012) *Phenotypic diversity and association mapping for fruit quality traits in cultivated tomato and related species*. Theoretical and Applied Genetics.
+
+- Ranc N.; Muños S.; Xu J.; Le Paslier M.C.; Chauveau A.; Bounon R.; Rolland S.; Bouchet J.P.; Brunel D.; Causse M. (2012) *Genome-wide association mapping in tomato (Solanum lycopersicum) is possible using genome admixture of Solanum lycopersicum var. cerasiforme*. G3, 2(8):853–864. DOI: https://doi.org/10.1534/g3.112.002667
+
+### 2011
+
+- Muños S.; Ranc N.; Botton E.; Bérard A.; Rolland S.; Duffé P.; Carretero Y.; Le Paslier M.C.; Delalande C.; Bouzayen M.; Brunel D.; Causse M. (2011) *Increase in tomato locule number is controlled by two SNPs located near WUSCHEL*. Plant Physiology, 156:2244–2254.
+
+- Rodríguez G.R.; Muños S.; Anderson C.; Sim S.C.; Michel A.; Causse M.; Gardener B.B.; Francis D.; van der Knaap E. (2011) *Distribution of SUN, OVATE, LC, and FAS in the tomato germplasm and the relationship to fruit shape diversity*. Plant Physiology, 156:275–285.
+
+### 2010
+
+- Prudent M.; Bertin N.; Génard M.; Muños S.; Rolland S.; Garcia V.; Petit J.; Baldet P.; Rothan C.; Causse M. (2010) *Genotype-dependent response to carbon availability in growing tomato fruit*. Plant Cell and Environment, 33:1186–1204.
+
+### 2008
+
+- Ranc N.; Muños S.; Santoni S.; Causse M. (2008) *A clarified position for Solanum lycopersicum var. cerasiforme in the evolutionary history of tomatoes (Solanaceae)*. BMC Plant Biology, 8:130.
 ## Books
 
 - Faurobert M.; Chaib J.; Barre M.; Tricon D.; Munos S.; Causse M. (2009) *Genetic and Proteomic Approach of Tomato Fruit Quality*. Acta Horticulturae, 817:119–126.
