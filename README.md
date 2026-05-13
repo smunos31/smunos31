@@ -7,12 +7,12 @@
 
 I have more than 24 years of experience in plant genomics and genetics.
 
-I am currently working in bioinformatics, with a focus on the intestinal microbiota and antibiotic tolerance in :contentReference[oaicite:1]{index=1}.
+I am currently working in bioinformatics, with a focus on the intestinal microbiota and antibiotic tolerance.
 
 ### Contact
 
 - Email: stephane.munos@inrae.fr
-- Research page: [Bioinformatics Research in Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html?utm_source=chatgpt.com)
+- Research page: [Bioinformatics Research In Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html?utm_source=chatgpt.com)
 
 ### Personal Information
 
