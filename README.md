@@ -1,32 +1,29 @@
 # Stephane Munos
-## Scientist at IRSD (Institut de Recherche en Santé Digestive http://www.irsd.fr/)
 
-**Skills:**
-I have been working in Plant Genomics and Genetics for 24 years.
-**I now work in Bioinformatics, focusing on the intestinal microbiote and antibiotic tolerance in Klebsiella pneumoniae.**
+## Scientist at IRSD (Institut de Recherche en Santé Digestive)
+[IRSD official website](http://www.irsd.fr/?utm_source=chatgpt.com)
 
-Contact: stephane.munos@inrae.fr
+### Skills
 
-<!--
-**smunos31/smunos31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have more than 24 years of experience in plant genomics and genetics.
 
-Here are some ideas to get you started:
+I am currently working in bioinformatics, with a focus on the intestinal microbiota and antibiotic tolerance in :contentReference[oaicite:1]{index=1}.
 
-- 🔭 I’m currently working on Bioinformatics: Microbiome, Klebsia antibiotics tolerance
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: stephane.munos@inserm.fr
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+
+- Email: stephane.munos@inrae.fr
+- Research page: [Bioinformatics Research in Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html?utm_source=chatgpt.com)
+
+### Personal Information
+
+- Date of birth: March 24, 1976
 
 <p align="center">
   <a href="https://www.inrae.fr/">
     <img src="inrae.png" alt="INRAE" width="200">
   </a>
 </p>
+
 
 # Biography
 ## Academic Background
