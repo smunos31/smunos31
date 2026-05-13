@@ -41,11 +41,11 @@ Teaching assistant for practical courses (TD/TP) in plant physiology and cell bi
 ## Employment
 
 **Nov. 2025–Present**  
-Institut de Recherche en Santé Digestive (IRSD, Toulouse, France) .
+Institut de Recherche en Santé Digestive (IRSD http://www.irsd.fr/, Toulouse, France) .
 Bioinformatician.
 
-**May 2011–Nov. 2025** – INRAE Occitanie-Toulouse, France  
-Plant–Microbe–Environment Interactions Laboratory  
+**May 2011–Nov. 2025**
+Plant–Microbe–Environment Interactions Laboratory (LIPME https://www.lipme.fr/, Toulouse, France)
 Leader of the *Sunflower–Pests Interactions* research group.
 
 **Feb. 2003–Apr. 2011** – Genetics and Breeding of Fruit and Vegetable Laboratory, Avignon, France  
