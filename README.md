@@ -13,6 +13,7 @@ I am currently working in bioinformatics, with a focus on the intestinal microbi
 
 - Email: stephane.munos@inrae.fr
 - Research page: [Bioinformatics Research In Disease Genomics](http://www.irsd.fr/equipe-4--bioinformatics-research-in-disease-genomics.html?utm_source=chatgpt.com)
+- ORCID : https://orcid.org/0000-0003-0261-2759
 
 ### Personal Information
 
