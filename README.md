@@ -100,6 +100,35 @@ https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029750634&cate
 
 - Terzic S.; Boniface M.C.; Marek L.; Alvarez D.; Baumann K.; Gavrilova V.; Joita-Pacureanu M.; Sujatha M.; Valkova D.; Velasco L.; Hulke B.S.; Jocic S.; Langlade N.; Munos S.; Rieseberg L.; Seiler G.; Vear F. (2020) *Gene banks for wild and cultivated sunflower genetic resources*. OCL, 27:9.
 
+### 2019
+
+- Duriez P.; Vautrin S.; Auriac M.C.; Bazerque J.; Boniface M.C.; Rousseaux J.C.; Carrere S.; Callot C.; Cauet S.; Chabaud M.; Gentoux F.; Lopez-Sendon M.; Paris C.; Pegot-Espagnet P.; Pérez-Vich B.; Velasco L.; Bergès H.; Piquemal J.; Muños S. (2019) *A receptor-like kinase enhances sunflower resistance to Orobanche cumana*. Nature Plants, 5:1211–1215.
+
+- Calderón-González A.; Pouilly N.; Muños S.; Grand X.; Coque M.; Velasco L.; Pérez-Vich B. (2019) *A SSR-SNP linkage map of the parasitic weed Orobanche cumana Wallr. including a gene for plant pigmentation*. Frontiers in Plant Science. DOI: https://doi.org/10.3389/fpls.2019.00797
+
+- Hübner S.; Bercovich N.; Todesco M.; Mandel J.R.; Odenheimer J.; Ziegler E.; Lee J.S.; Baute G.J.; Owens G.L.; Grassa C.J.; Ebert D.P.; Ostevik K.L.; Moyers B.T.; Yakimowski S.; Masalia R.R.; Gao L.; Ćalić I.; Bowers J.E.; Kane N.C.; Swanevelder D.Z.H.; Kubach T.; Muños S.; Langlade N.B.; Burke J.M.; Rieseberg L.H. (2019) *Sunflower pan-genome analysis shows that hybridization altered gene content and disease resistance*. Nature Plants, 5:54–62.
+
+### 2018
+
+- Pecrix Y.; Penouilh-Suzette C.; Muños S.; Vear F.; Godiard L. (2018) *Ten Broad Spectrum Resistances to Downy Mildew Physically Mapped on the Sunflower Genome*. Frontiers in Plant Science. DOI: https://doi.org/10.3389/fpls.2018.01780
+
+- Pecrix Y.; Staton E.; Sallet E.; Lelandais-Brière C.; Moreau S.; Carrère S.; Blein T.; Jardinaud M.F.; Latrasse D.; Zouine M.; Zahm M.; Kreplak J.; Mayjonade B.; Satgé C.; Perez M.; Cauet S.; Marande W.; Chantry-Darmon C.; Lopez-Roques C.; Bouchez O.; Bérard A.; Debellé F.; Muños S.; Bendahmane A.; Bergès H.; Niebel A.; Buitink J.; Frugier F.; Benhamed M.; Crespi M.; Gouzy J.; Gamas P. (2018) *Whole-genome landscape of Medicago truncatula symbiotic genes*. Nature Plants, 4:1017–1025.
+
+- Subrahmaniam H.J.; Libourel C.; Journet E.P.; Morel J.B.; Muños S.; Niebel A.; Raffaele S.; Roux F. (2018) *The genetics underlying natural variation of plant-plant interactions, a beloved but forgotten member of the family of biotic interactions*. The Plant Journal, 93:747–770.
+
+- Bonnafous F.; Fievet G.; Blanchet N.; Boniface M.C.; Carrère S.; Gouzy J.; Legrand L.; Marage G.; Bret-Mestries E.; Muños S.; Pouilly N.; Vincourt P.; Langlade N.; Mangin B. (2018) *Comparison of GWAS models to identify non-additive genetic control of flowering time in sunflower hybrids*. Theoretical and Applied Genetics, 131:319–332.
+
+### 2017
+
+- Bordat A.; Marchand G.; Langlade N.; Pouilly N.; Muños S.; Dechamp-Guillaume G.; Vincourt P.; Bret-Mestries E. (2017) *Different genetic architectures underlie crop responses to the same pathogen: the Helianthus annuus × Phoma macdonaldii interaction case for black stem disease and premature ripening*. BMC Plant Biology, 17:167. DOI: https://doi.org/10.1186/s12870-017-1116-1
+
+- Mangin B.; Bonnafous F.; Blanchet N.; Boniface M.C.; Bret-Mestries E.; Carrère S.; Cottret L.; Legrand L.; Marage G.; Pegot-Espagnet P.; Muños S.; Pouilly N.; Vear F.; Vincourt P.; Langlade N. (2017) *Genomic prediction of sunflower hybrids oil content*. Frontiers in Plant Science, 8:1633. DOI: https://doi.org/10.3389/fpls.2017.01633
+
+- Badouin H.; Gouzy J.; Grassa C.J.; et al.; Muños S.*; Vincourt P.*; Rieseberg L.H.*; Langlade N.* (2017) *The sunflower genome provides insights into oil metabolism, flowering and Asterid evolution*. Nature, 546:148–152.
+
+- Mangin B.; Pouilly N.; Boniface M.C.; Langlade N.; Vincourt P.; Vear F.; Muños S. (2017) *Molecular diversity in sunflower populations maintained as genetic resources is affected by multiplication processes and breeding for major traits*. Theoretical and Applied Genetics, 130:1099–1112.
+
+- Mangin B.; Casadebaig P.; Cadic E.; Blanchet N.; Boniface M.C.; Carrère S.; Gouzy J.; Legrand L.; Mayjonade B.; Pouilly N.; André T.; Coque M.; Piquemal J.; Romestant M.; Vincourt P.; Muños S.; Langlade N. (2017) *Genetic control of oil yield plasticity to combined abiotic stresses using a joint approach of crop modeling and genome-wide association*. Plant, Cell & Environment. DOI: https://doi.org/10.1111/pce.12961
 ## Books
 
 - Faurobert M.; Chaib J.; Barre M.; Tricon D.; Munos S.; Causse M. (2009) *Genetic and Proteomic Approach of Tomato Fruit Quality*. Acta Horticulturae, 817:119–126.
