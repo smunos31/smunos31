@@ -48,7 +48,7 @@ Bioinformatician.
 Plant–Microbe–Environment Interactions Laboratory (LIPME https://www.lipme.fr/, Toulouse, France)
 Leader of the *Sunflower–Pests Interactions* research group.
 
-**Feb. 2003–Apr. 2011** – Genetics and Breeding of Fruit and Vegetable Laboratory, Avignon, France  
+**Feb. 2003–Apr. 2011** – Genetics and Breeding of Fruit and Vegetable Laboratory (GAFL https://gafl.paca.hub.inrae.fr/, Avignon, France)  
 Lead of molecular genetics experiments within the *Genetics and Molecular Bases of Fruit Quality* group.
 
 ## Award
