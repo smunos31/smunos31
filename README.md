@@ -171,6 +171,19 @@ https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029750634&cate
 ### 2008
 
 - Ranc N.; Muños S.; Santoni S.; Causse M. (2008) *A clarified position for Solanum lycopersicum var. cerasiforme in the evolutionary history of tomatoes (Solanaceae)*. BMC Plant Biology, 8:130.
+
+- ### 2004
+
+- Muños S.; Cazettes C.; Fizames C.; Gaymard F.; Tillard P.; Lepetit M.; Lejay L.; Gojon A. (2004) *Transcript profiling in the chl1-5 mutant of Arabidopsis reveals a role of the nitrate transporter NRT1.1 in the regulation of another nitrate transporter, NRT2.1*. Plant Cell, 16:2433–2447.
+
+- Fizames C.; Muños S.; Cazettes C.; Nacry P.; Boucherez J.; Gaymard F.; Piquemal D.; Delorme V.; Commes T.; Doumas P.; Cooke R.; Marti J.; Sentenac H.; Gojon A. (2004) *The Arabidopsis root transcriptome by serial analysis of gene expression. Gene identification using the genome sequence*. Plant Physiology, 134:67–80.
+
+### 2001
+
+- Cerezo M.; Tillard P.; Filleur S.; Muños S.; Daniel-Vedele F.; Gojon A. (2001) *Major alterations of the regulation of root NO3− uptake are associated with the mutation of Nrt2.1 and Nrt2.2 genes in Arabidopsis*. Plant Physiology, 127:262–271.
+
+- Gansel X.; Muños S.; Tillard P.; Gojon A. (2001) *Differential regulation of the NO3− and NH4+ transporter genes AtNrt2.1 and AtAmt1.1 in Arabidopsis: relation with long-distance and local controls by N status of the plant*. The Plant Journal, 26(2):143–155.
+
 ## Books
 
 - Faurobert M.; Chaib J.; Barre M.; Tricon D.; Munos S.; Causse M. (2009) *Genetic and Proteomic Approach of Tomato Fruit Quality*. Acta Horticulturae, 817:119–126.
