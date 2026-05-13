@@ -30,7 +30,7 @@ I am currently working in bioinformatics, with a focus on the intestinal microbi
 
 **1999–2002** – University of Montpellier, Montpellier, France  
 PhD in Integrative Biology  
-Dissertation: *“Genetic reprogramming induced by nitrogen deficiency in Arabidopsis thaliana”*
+*Genetic reprogramming induced by nitrogen deficiency in Arabidopsis thaliana*
 
 **1999–2002** – University of Montpellier, Montpellier, France  
 Teaching assistant for practical courses (TD/TP) in plant physiology and cell biology.
