@@ -5,7 +5,7 @@
 I have been working in Plant Genomics and Genetics for 24 years.
 **I now work in Bioinformatics, focusing on the intestinal microbiote and antibiotic tolerance in Klebsiella pneumoniae.**
 
-Contact: stephane.munos@inserm.fr
+Contact: stephane.munos@inrae.fr
 
 <!--
 **smunos31/smunos31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
