@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="inrae.png" alt="Logo" width="200">
+  <a href="https://www.inrae.fr/">
+    <img src="inrae.png" alt="INRAE" width="200">
+  </a>
 </p>
 
 # Biography
