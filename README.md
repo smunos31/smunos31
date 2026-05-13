@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center">
+  <img src="inrae.png" alt="Logo" width="200">
+</p>
+
 # Biography
 ## Academic Background
 
@@ -35,14 +39,15 @@ Teaching assistant for practical courses (TD/TP) in plant physiology and cell bi
 ## Employment
 
 **Nov. 2025–Present**  
-[Position to be completed]
+Institut de Recherche en Santé Digestive (IRSD, Toulouse, France) .
+Bioinformatician.
 
 **May 2011–Nov. 2025** – INRAE Occitanie-Toulouse, France  
 Plant–Microbe–Environment Interactions Laboratory  
 Leader of the *Sunflower–Pests Interactions* research group.
 
 **Feb. 2003–Apr. 2011** – Genetics and Breeding of Fruit and Vegetable Laboratory, Avignon, France  
-Led molecular genetics experiments within the *Genetics and Molecular Bases of Fruit Quality* group.
+Lead of molecular genetics experiments within the *Genetics and Molecular Bases of Fruit Quality* group.
 
 ## Award
 
