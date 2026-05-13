@@ -21,3 +21,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Biography
+## Academic Background
+
+**1999–2002** – University of Montpellier, Montpellier, France  
+PhD in Integrative Biology  
+Dissertation: *“Genetic reprogramming induced by nitrogen deficiency in Arabidopsis thaliana”*
+
+**1999–2002** – University of Montpellier, Montpellier, France  
+Teaching assistant for practical courses (TD/TP) in plant physiology and cell biology.
+
+## Employment
+
+**Nov. 2025–Present**  
+[Position to be completed]
+
+**May 2011–Nov. 2025** – INRAE Occitanie-Toulouse, France  
+Plant–Microbe–Environment Interactions Laboratory  
+Leader of the *Sunflower–Pests Interactions* research group.
+
+**Feb. 2003–Apr. 2011** – Genetics and Breeding of Fruit and Vegetable Laboratory, Avignon, France  
+Led molecular genetics experiments within the *Genetics and Molecular Bases of Fruit Quality* group.
+
+## Award
+
+**2017** – *Programme Jeunes Talents France–Chine*  
+Awarded by the French Ministry for Europe and Foreign Affairs.
+
+## Other Activities
+
+Scientific expert for the CTPS Section *“Tournesol, soja, ricin”*.
+
+Official reference:  
+https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000029750634&categorieLien=id
